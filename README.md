@@ -17,7 +17,7 @@ Required Python packages (see requirements.txt)
 
 Installation:
 1.Clone the repository:
-git clone https://github.com/Ashishaasu/resume-matcher.git
+git clone https://github.com/Ashishaasu/resume_matcher.git
 cd resume-matcher
 
 2.Create and activate a virtual environment:
